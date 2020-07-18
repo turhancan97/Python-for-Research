@@ -1,5 +1,10 @@
 # Python-for-Research
-## COURSE OUTLINE
+
+* Review the basics of Python 3 programming
+* Learn how to use Python tools (e.g., the NumPy and SciPy modules) for research applications
+* Learn how to apply Python research tools in practical settings
+
+## OUTLINE
 ### Week 1: Basics of Python 3
 Week 1 Overview
 Part 1: Objects and Methods (Comprehension Check)
