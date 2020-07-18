@@ -1,7 +1,7 @@
 # Introduction to GPS Tracking of Birds
 
 import pandas as pd
-birddata = pd.read_csv("bird_tracking.csv")
+birddata = pd.read_csv("bird_migration.csv")
 birddata.info()
 birddata.head()
 
