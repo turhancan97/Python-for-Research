@@ -1,3 +1,4 @@
+# EXERCISE 1A
 """
 Import the string library.
 Create a variable alphabet that consists of the lowercase and uppercase letters

@@ -1,3 +1,4 @@
+# EXERCISE 1C
 """
 
 Rewrite your code from 1b to make a function called counter that takes a string
